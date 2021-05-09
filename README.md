@@ -7,7 +7,7 @@ Concepto
 
 Objetivo
 
-Conseguir un diseño sencillo, funional y escalable a otros proyectos adems de estar impresas en 3D la mayor cantidad de piezas pata reducir los costes del proyeto
+Conseguir un diseño sencillo, funional y escalable a otros proyectos adems de estar impresas en 3D la mayor cantidad de piezas pata reducir los costes del proyecto
 
 
 Cosas hechas:
